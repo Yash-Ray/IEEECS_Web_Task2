@@ -1,0 +1,201 @@
+body
+{
+    background-image: url('Background1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+u
+{
+    text-shadow: 2px 2px 5px black;
+}
+h1
+{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    position: fixed;
+    left: 40%;
+    font-size: 300%;
+    font-weight: 100;
+    text-shadow: 3px 3px 3px black;
+}
+h3
+{
+    font-family: 'Courier New', Courier, monospace;
+    max-width: 40px;
+    min-width: 18%;
+    position: fixed;
+    top:23%;
+    left:12%;
+    font-size: 30;
+    color: wheat;
+    text-shadow: 3px 3px 3px black;
+}
+.Fact1
+{
+    max-width: 40%;
+    min-width: 10%;
+    font-variant: small-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120%;
+    color: wheat;
+    opacity: 0.5;
+    position: fixed;
+    right: 10%;
+    top: 25%;
+    border-radius: 20px;
+    background:rgb(78, 74, 74);
+    background: rgba(0,0,0,0.15);
+}
+.Fact1:hover
+{
+    opacity: 1.0;
+    background: rgba(0,0,0,0.6);
+}
+.Fact2
+{
+    max-width: 40%;
+    min-width: 10%;
+    font-size: 120%;
+    font-variant: small-caps;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+    right: 10%;
+    top: 60%;
+    background: rgb(78, 74, 74);
+    background: rgba(0,0,0,0.15);
+    color: wheat;
+    border-radius: 20px;
+    opacity: 0.5;
+}
+.Fact2:hover
+{
+    opacity: 1.0;
+    background: rgba(0,0,0,0.6);
+}
+
+.username
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    border-radius: 10px;
+    position: fixed;
+    top: 35%;
+    left: 12%;
+}
+.username:hover
+{
+    background:rgba(0,0,0,0.5);
+    color: wheat;
+    
+}
+.Email
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    border-radius: 10px;
+    position: fixed;
+    top: 45%;
+    left: 12%;
+}
+.Email:hover
+{
+    background:rgba(0,0,0,0.5);
+    color: wheat;
+    
+}
+.password
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 100%;
+    border-radius: 10px;
+    position: fixed;
+    top: 55%;
+    left: 12%;
+    
+}
+.password:hover
+{
+    background:rgba(0,0,0,0.5);
+    color: wheat;
+    
+}
+.btn
+{
+    position: fixed;
+    top: 63%;
+    left: 16.4%;
+    color: wheat;
+    background: rgba(56, 56, 58, 0.9);
+    border-radius: 10px;
+}
+.btn:hover
+{
+    background-color: wheat;
+    color: black;
+}
+.Rectangle1
+{
+    height: 23px;
+    width: 210px;
+    background-color:rgba(63, 55, 55, 0.5);
+    border-radius: 10px;
+    position: fixed;
+    top:36%;
+    left: 13%;
+}
+.Rectangle2
+{
+    height: 23px;
+    width: 210px;
+    background-color:rgba(63, 55, 55, 0.5);
+    border-radius: 10px;
+    position: fixed;
+    top:46%;
+    left: 13%;
+}
+.Rectangle3
+{
+    height: 23px;
+    width: 210px;
+    background-color:rgba(63, 55, 55, 0.5);
+    border-radius: 10px;
+    position: fixed;
+    top:56%;
+    left: 13%;
+}
+.Txt
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: fixed;
+    top: 67%;
+    left: 14%;
+    color:whitesmoke;
+    opacity:0.5;
+    font-size: small;
+}
+.Txt:hover
+{
+    opacity: 1.0;
+}
+a:link
+{
+    color: wheat;
+}
+a:hover
+{
+    color: yellowgreen;
+}
+.Menu
+{
+    zoom: 20%;
+    opacity: 0.4;
+    position: fixed;
+    left: 100px;
+    top: 100px;
+}
+.Menu:hover
+{
+    opacity: 1.0;
+}
